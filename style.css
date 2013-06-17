@@ -1,0 +1,15 @@
+h1 {
+	color:black;
+	font-weight:normal;
+	font-size:18px;
+	font-family:Georgia;
+	text-align:center;
+}
+
+p {
+	color:black;
+	font-weight:normal;
+	font-size:14px;
+	font-family:Times;
+	text-align:center;
+}
