@@ -1,0 +1,5 @@
+cd to folder
+type python -m SimpleHTTPServer
+in web browser, go to localhost:8000
+
+
